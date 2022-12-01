@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @adamalva3
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 My name is Adam Alvarado and I enjoy all things Technology
 
-<!---
-adamalva3/adamalva3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="badges">
+  <a href="https://www.linkedin.com/in/adam-alvarado-0a6399177/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
